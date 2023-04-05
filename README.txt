@@ -1,2 +1,2 @@
-# Arnau-Hanly
+Arnau-Hanly
 My personal website
