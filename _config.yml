@@ -4,3 +4,5 @@ plugins:
 
 title: My Website
 description: This is a location for all my work and beliefs
+
+show_downloads: false
